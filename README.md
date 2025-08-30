@@ -174,16 +174,8 @@ python Readdata.py
 6. Thống nhất GUI framework
 7. Tạo unit tests
 
-### Đóng góp
 
-1. Fork repository
-2. Tạo feature branch: `git checkout -b feature/AmazingFeature`
-3. Commit changes: `git commit -m 'Add some AmazingFeature'`
-4. Push to branch: `git push origin feature/AmazingFeature`
-5. Open Pull Request
-
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Dataset từ Kaggle Home Credit
 - Cảm ơn cộng đồng Python và Machine Learning
